@@ -1,5 +1,7 @@
 # PEC3_Manovich_Reloaded
-##Títol:PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
+
+
+## Títol: PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 Autor: Oscar Redondo Alcantara
 
